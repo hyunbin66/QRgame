@@ -1,5 +1,5 @@
-모바일에서 진행하려면 
-OpenSSL_Light 다운로드 후
+##모바일에서 진행하려면 
+OpenSSL_Light 다운로드 후(https://slproweb.com/products/Win32OpenSSL.html)
 npm run dev -- --host  
 Network: https://172.30.1.2:5173/ 로 모바일에서 사용하면 됩니다.
 
